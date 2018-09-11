@@ -59,7 +59,6 @@ DEVICE_PACKAGE_OVERLAYS += hardware/qcom/audio/configs/common/overlay
 PRODUCT_COPY_FILES +=\
 hardware/qcom/audio/configs/msm8937/audio_policy.conf:system/etc/audio_policy.conf\
 hardware/qcom/audio/configs/msm8937/audio_output_policy.conf:system/vendor/etc/audio_output_policy.conf\
-hardware/qcom/audio/configs/msm8937/audio_effects.conf:system/vendor/etc/audio_effects.conf\
 hardware/qcom/audio/configs/msm8937/mixer_paths_mtp.xml:system/etc/mixer_paths_mtp.xml \
 hardware/qcom/audio/configs/msm8937/mixer_paths_qrd_skuh.xml:system/etc/mixer_paths_qrd_skuh.xml \
 hardware/qcom/audio/configs/msm8937/mixer_paths_qrd_skui.xml:system/etc/mixer_paths_qrd_skui.xml \
